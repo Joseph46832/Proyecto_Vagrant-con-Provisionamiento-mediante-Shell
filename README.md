@@ -16,6 +16,8 @@
 -> http://192.168.56.10/index.html #Pagina web de prueba de Apache
 -> http://192.168.56.10/info.php #Pagina web con la base de datos de PostgreSQL
 
+Todo es perfectamente funcional, ya hice pruebas y funciono, obviamente, para que en info.php muestre los datos de la base de datos, es necesario tener la base de datos, y configurada
+
 ## Para el retico
 
 Creamos una tabla llamada "personas"
